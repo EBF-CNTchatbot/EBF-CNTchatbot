@@ -2,6 +2,8 @@
 
 * **CNT Chatbot**
     * [Vue globale](/)
+* **BotMan**
+    * [Infos sur BotMan](pages/botman.md)
 * **LandBot**
     * [Infos sur Landbot](pages/landbot1.md)
     * [La plateforme](pages/landbot2.md)

@@ -1,6 +1,6 @@
 # CNT LandBot
 
-> CNT LandBot est un ChatBot créé avec Landbot et développé par <a href="https://www.facebook.com/ghamrianas">Anas Ghamri</a>, stagiaire à EBF et Élève-Ingénieur à l'ENSA de Marrakech.
+> L'assistant Virtuel de la CNT est un ChatBot créé sous Landbot et développé par <a href="https://www.facebook.com/ghamrianas">Anas Ghamri</a>, stagiaire à EBF et Élève-Ingénieur à l'ENSA de Marrakech.
 
 ## Démonstration
 
