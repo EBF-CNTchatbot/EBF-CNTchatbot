@@ -4,7 +4,7 @@
 
 ## Qu'est ce que c'est?
 
-<a href="https://landbot.io">BotMan</a> est un Framework PHP de création de chatbots, gratuit et personnalisable.
+<a href="https://botman.io/">BotMan</a> est un Framework PHP de création de chatbots, gratuit et personnalisable.
 BotMan est un framework PHP Chatbot conçu pour simplifier le développement de robots innovants pour plusieurs plates-formes de messagerie, notamment Slack, Telegram, Microsoft Bot Framework Nexmo, HipChat, Facebook Messenger, WeChat et bien d'autres.
 
 ## Fonctionnalités de base
