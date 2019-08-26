@@ -25,7 +25,7 @@ Le système middleware a été davantage développé dans la version 2.0, ce qui
 
 > Vous pouvez également consulter l'<a href="https://botman.io/">exemple</a> donné par BotMan.
 
-![image](images/BotMan-Demo1.gif)
+![image](images/botman.gif)
 
 ## Plus d'infos
 
