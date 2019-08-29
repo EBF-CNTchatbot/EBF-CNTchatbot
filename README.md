@@ -1,6 +1,6 @@
 # CNT LandBot
 
-> L'assistant Virtuel de la CNT est un ChatBot créé sous Landbot et développé par <a href="https://www.facebook.com/ghamrianas">Anas Ghamri</a>, stagiaire à EBF et Élève-Ingénieur à l'ENSA de Marrakech.
+> L'assistant Virtuel de la CNT est un ChatBot créé sous Landbot et développé par <a href="https://www.facebook.com/ghamrianas">Anas Ghamri</a> et <a href="https://www.facebook.com/Ay.Elfarissi">Ayoub El Farissi</a>, stagiaires à EBF et Élèves-Ingénieurs.
 
 ## Démonstration
 
